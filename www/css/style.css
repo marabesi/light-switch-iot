@@ -1,0 +1,17 @@
+.on-off-button {
+    max-width: 50%;
+    margin: 50% auto;
+    vertical-align: middle;
+}
+
+.image-responsive {
+    width: 100%;
+}
+
+.bg-on {
+    background-color: #57c7d0;
+}
+
+.bg-off {
+    background-color: #c0c0c0;
+}
